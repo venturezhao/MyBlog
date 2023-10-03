@@ -5,7 +5,7 @@
 # Site
 title: '潜海凌云录'
 subtitle: '路漫漫其修远兮，吾将上下而求索'
-description: 'This is the personal blog of wenzhe.'
+description: "This is wenzhe's personal blog."
 keywords:
 author: 'wenzhe'
 language: zh-CN
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
